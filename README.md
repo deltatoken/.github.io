@@ -1,5 +1,7 @@
 ## Blinktrade Bitcoin Exchange
 
+[![Join the chat at https://gitter.im/deltatoken/.github.io](https://badges.gitter.im/deltatoken/.github.io.svg)](https://gitter.im/deltatoken/.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Technologies we are using
 - [jekyll](http://jekyllrb.com/), a static generator in Ruby, to create the static html pages
 - [google closure library](https://developers.google.com/closure/library/) for the javascript application 
